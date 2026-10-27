@@ -1,0 +1,9 @@
+# Downloaded structures (re-created by the notebook)
+*.pdb
+*.pdb.gz
+*.cif
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+# macOS
+.DS_Store
